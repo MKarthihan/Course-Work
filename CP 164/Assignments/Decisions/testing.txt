@@ -1,0 +1,113 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+ID:      210743860
+Email:   mahe3860@mylaurier.ca
+Version: 2021-10-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Input 1:
+
+Enter a number between 1 to 7:3
+3 is corresponding to Wednesday of the week
+
+Input 2:
+
+Enter a number between 1 to 7:8
+8 is a Error...Try again!
+
+Input 3:
+Enter a number between 1 to 7:7
+7 is corresponding to Sunday of the week 
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+Input 1:
+
+Enter the AQI (Air Quality Index):256
+Pollution level 256: Very Unhealthy
+
+Input 2:
+
+Enter the AQI (Air Quality Index):-5
+Pollution level -5: Error
+
+Input 3:
+
+Enter the AQI (Air Quality Index):151
+Pollution level 151: Unhealthy
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+Input 1:
+
+Enter a number:-8
+Enter a second number:12
+Enter a third number:20
+The product of the two largest values of -8, 12, and 20 is 240
+
+Input 2:
+
+Enter a number:-5
+Enter a second number:0
+Enter a third number:9
+The product of the two largest values of -5, 0, and 9 is 0
+
+
+Input 3:
+
+Enter a number:0
+Enter a second number:0
+Enter a third number:10
+The product of the two largest values of 0, 0, and 10 is 10
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Input 1:
+
+Enter colour 1 (red, green, blue):red
+Enter colour 2 (red, green, blue):green
+red + green = yellow
+
+Input 2:
+
+Enter colour 1 (red, green, blue):green
+Enter colour 2 (red, green, blue):red
+green + red = yellow
+
+Input 3:
+
+Enter colour 1 (red, green, blue):blue
+Enter colour 2 (red, green, blue):kipney
+blue + kipney = Error
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Input 1:
+
+Enter a number:7
+Ha
+
+Input 2:
+
+Enter a number:21
+Yee Ha
+
+Input 3:
+
+Enter a number:-44
+Nada

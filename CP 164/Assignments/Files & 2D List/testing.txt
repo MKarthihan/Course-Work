@@ -1,0 +1,127 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+ID:      210743860
+Email:   mahe3860@mylaurier.ca
+Version: 2021-10-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Input 1:
+
+-------------------------------------------------------
+Assignment 9, Functions
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+Input 1:
+
+[10, 20, 30, 40, 50, 60, 90, 80, 70, 11, 22, 13, 14, 14, 20]
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+Input 1:
+
+Uppercase Letters: 50
+Lowercase Letters: 114
+Digits: 15
+Whitesapce characters: 44
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Input 1:
+
+Number of rows: 4
+Number of columns: 4
+Low value: 1
+High value: 5
+
+2D List: [[2, 1, 3, 3], [3, 5, 3, 4], [2, 5, 1, 5], [5, 3, 4, 2]]
+
+New 1D list: [2, 1, 3, 3, 3, 5, 3, 4, 2, 5, 1, 5, 5, 3, 4, 2]
+
+Input 2:
+
+Number of rows: 3
+Number of columns: 3
+Low value: 1
+High value: 5
+
+2D List: [[2, 2, 3], [4, 4, 1], [3, 3, 3]]
+
+New 1D list: [2, 2, 3, 4, 4, 1, 3, 3, 3]
+
+Input 3:
+
+Number of rows: 2
+Number of columns: 1
+Low value: 1
+High value: 5
+
+2D List: [[1], [5]]
+
+New 1D list: [1, 5]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Input 1:
+
+Number of rows: 4
+Number of columns: 3
+Low value: 1
+High value: 5
+
+Matrix:
+[[2, 5, 4], [3, 2, 2], [2, 3, 5], [5, 2, 1]]
+
+Rotated to:
+[[5, 2, 3, 2], [2, 3, 2, 5], [1, 5, 2, 4]]
+
+Input 2:
+
+Number of rows: 4
+Number of columns: 2
+Low value: 1
+High value: 5
+
+Matrix:
+[[3, 2], [2, 5], [3, 2], [4, 1]]
+
+Rotated to:
+[[4, 3, 2, 3], [1, 2, 5, 2]]
+
+Input 3:
+
+Number of rows: 3
+Number of columns: 1
+Low value: 1
+High value: 5
+
+Matrix:
+[[4], [1], [5]]
+
+Rotated to:
+[[5, 1, 4]]
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+Input 1:
+
+[['David Brown', 'King St', 'Waterloo, ON', 'Q1Q 1Q1'], ['Angele Foley', 'Weber St', 'Waterloo, ON', 'F0Q 8I7'], ['Tasmin Brown', 'Awesome Avenue', 'Waterloo, ON', 'U1F 5D4'], ['Duran Duran', 'Rock Ave', 'Kitchener, ON', 'R0K 0N3'], ['Jane Doe', 'Upscale Boulevard', 'Waterloo, ON', 'A1A 1A1']]
