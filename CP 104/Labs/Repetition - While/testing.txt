@@ -1,0 +1,93 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+ID:      210743860
+Email:   mahe3860@mylaurier.ca
+Version: 2021-10-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Input 1:
+
+Guess:50
+Too low, try again.
+Guess:60
+Too low, try again.
+Guess:80
+Too low, try again.
+Guess:90
+Too low, try again.
+Guess:95
+Too low, try again.
+Guess:99
+Congratulations - good guess!
+You made 6 guesses.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+Input 1:
+
+Target population:10000
+Current population:100
+Percent rate of growth:20
+It would take 26 years for a population of 100 to reach 10000 from a rate of 20% 
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Input 1:
+First positive value:4
+Next positive value:3.5
+Next positive value:2.25
+Next positive value:6.1
+Next positive value:9.3
+Next positive value:-1
+ 
+minimum: 2.25
+maximum: 9.30
+total: 25.15
+average: 5.03
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+Input 1:
+
+Day 1
+
+How much was breakfast? $1.5
+How much was lunch? $2.5
+How much was supper? $3.5
+Your total for the day was $7.50
+
+Were you away another day (Y/N)? N
+
+Total:
+Breakfast:   $1.50
+Lunch:   $2.50
+Supper:   $3.50
+ 
+Grand total: $7.50
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+Input 1:
+
+Enter a value for the minimum of the range:0
+Enter a value for the maximum of the range:100
+Enter a value between 0 and high 100:-10
+Value entered is too low
+Enter a value between 0 and high 100:45
+
+Value: 45
