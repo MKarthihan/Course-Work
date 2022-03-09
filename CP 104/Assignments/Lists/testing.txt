@@ -1,0 +1,132 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+ID:      210743860
+Email:   mahe3860@mylaurier.ca
+Version: 2021-10-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Input 1:
+Enter a number:9
+The factors of 9 is [1, 3]
+
+Input 2:
+Enter a number:24
+The factors of 24 is [1, 2, 3, 4, 6, 8, 12]
+
+Input 3:
+Enter a number:6
+The factors of 6 is [1, 2, 3]
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+Input 1:
+Enter a postive number:-3
+Enter a postive number:5
+Enter a postive number:-2
+Enter a postive number:7
+Enter a postive number:-1
+Enter a postive number:2
+Enter a postive number:0
+[5, 7, 2]
+
+Input 2:
+Enter a postive number:5
+Enter a postive number:7
+Enter a postive number:2
+Enter a postive number:-7
+Enter a postive number:-2
+Enter a postive number:0
+[5, 7, 2]
+
+Input 3:
+Enter a postive number:4564
+Enter a postive number:123
+Enter a postive number:846
+Enter a postive number:156
+Enter a postive number:-5461
+Enter a postive number:0
+[4564, 123, 846, 156]
+ 
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+Input 1:
+[4, 7, 7, 9]
+Enter a target value:7
+[1, 2]
+
+Input 2:
+[2, 1, 5, 1, 9, 7]
+Enter a target value:1
+[1, 3]
+
+Input 3:
+[6, 10, 6, 6, 5, 6, 5, 3, 3, 4]
+Enter a target value:6
+[0, 2, 3, 5]
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Input 1:
+[8, 2, 9, 1, 9]
+Enter number of elements : 2
+Index 0:2
+Index 1:9
+[2, 9]
+minuend after: [8, 1]
+
+Input 2:
+[8, 4, 5, 4, 3, 7, 10]
+Enter number of elements : 2
+Index 0:4
+Index 1:10
+[4, 10]
+minuend after: [8, 5, 3, 7]
+
+Input 3:
+[1, 6, 4, 7, 1, 7, 2, 10, 9]
+Enter number of elements : 1
+Index 0:7
+[7]
+minuend after: [1, 6, 4, 1, 2, 10, 9]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Input 1:
+Enter number of elements : 4
+Index 0:1
+Index 1:2
+Index 2:3
+Index 3:5
+[1, 2, 3, 5]
+True, -1
+
+Input 2:
+Enter number of elements : 3
+Index 0:1
+Index 1:2
+Index 2:3
+[1, 2, 3]
+True, -1
+
+Input 3:
+Enter number of elements : 3
+Index 0:3
+Index 1:2
+Index 2:1
+[3, 2, 1]
+False, 1

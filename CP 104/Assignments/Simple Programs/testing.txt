@@ -1,0 +1,116 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+Version: 2021-09-26
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+The book title is, "The Fifth Season".'
+What's mine is mine, and what's yours is mine.
+"Experience is one thing you can't get for nothing." Oscar Wilde
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Input: 1 
+Enter your age:12
+Enter your favourite band:Nickleback
+I am 12 years old and my favourite band is Nickleback
+
+Input: 2
+Enter your age:18
+Enter your favourite band:The Beatles
+I am 18 years old and my favourite band is The Beatles
+
+Input: 3
+Enter your age:45
+Enter your favourite band:Pink FLoyd
+I am 45 years old and my favourite band is Pink FLoyd
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Input: 1 
+Please enter your length in miles12.5
+Length in miles: 12.5
+Length in km: 20.1125
+
+Input: 2
+Please enter your length in miles10
+Length in miles: 10.0
+Length in km: 16.09
+
+Input: 3
+Please enter your length in miles100
+Length in miles: 100.0
+Length in km: 160.9
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Input 1:
+Cost of 1 burrito: $ 4.49
+How many burritos do you want?3
+Total cost of 3.0 burritos: $ 13.47
+
+Input 2:
+Cost of 1 burrito: $1
+How many burritos do you want?100
+Total cost of 100 burritos: $ 100.0
+
+Input 3:
+Cost of 1 burrito: $5
+How many burritos do you want?25
+Total cost of 25 burritos: $ 125.0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Input 1:
+Annual rate of interest (as a decimal):0.05
+Number of times the interest is compounded per year:12
+Initial amount of dollars?:5000
+How long did you have or plan to have this loan?:10
+
+Principal: $ 5000.0
+Interest: 5.0 %
+Number of years: 10
+Number of times interest compounded per year: 12
+
+Balance: $ 8235.05
+
+Input 2:
+Annual rate of interest (as a decimal):.10
+Number of times the interest is compounded per year:12
+Initial amount of dollars?:5000
+How long did you have or plan to have this loan?:2
+
+Principal: $ 5000.0
+Interest: 10.0 %
+Number of years: 2
+Number of times interest compounded per year: 12
+
+Balance: $ 6101.95
+
+Input 3:
+Annual rate of interest (as a decimal):0.001
+Number of times the interest is compounded per year:12
+Initial amount of dollars?:100
+How long did you have or plan to have this loan?:2
+
+Principal: $ 100.0
+Interest: 0.1 %
+Number of years: 2
+Number of times interest compounded per year: 12
+
+Balance: $ 100.2
+-------------------------------------------------------

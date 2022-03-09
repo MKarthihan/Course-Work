@@ -1,0 +1,140 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Karthihan Maheswaran
+ID:      210743860
+Email:   mahe3860@mylaurier.ca
+Version: 2021-09-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+Input 1:
+Enter the total sales: $10000
+Projected Tax Report
+--------------------------
+Total sales: $ 10000.00
+Annual tax:  % 22.50
+--------------------------
+Tax:         $ 2250.00 
+
+Input 2:
+Enter the total sales: $10
+Projected Tax Report
+--------------------------
+Total sales:   $10.00
+Annual tax:    %22.50
+--------------------------
+Tax:           $2.25
+
+Input 3:
+Enter the total sales: $1
+Projected Tax Report
+--------------------------
+Total sales:   $1.00
+Annual tax:    %22.50
+--------------------------
+Tax:           $0.23
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+Input 1:
+Enter a positive digit number:25
+The difference of the digits of 25 is -3
+
+Input 2:
+Enter a positive digit number:50
+The difference of the digits of 50 is 5
+
+Input 3:
+Enter a positive digit number:28
+The difference of the digits of 28 is -6
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+Input 1:
+Enter a date in the format MMDDYYYY:10251962
+The reformatted date: 1962/10/25
+
+Input 2:
+Enter a date in the format MMDDYYYY:01282003
+The reformatted date: 2003/1/28
+
+Input 3:
+Enter a date in the format MMDDYYYY:05052003
+The reformatted date: 2003/5/5
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Input 1:
+Number of balloons:12
+Number of children:5
+Each child receives 2 balloons
+Balloons that won’t be distributed: 2
+
+Input 2:
+Number of balloons:100
+Number of children:78
+Each child receives 1 balloons
+Balloons that won’t be distributed: 22
+
+Input 3:
+Number of balloons:45
+Number of children:13
+Each child receives 3 balloons
+Balloons that won’t be distributed: 6
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Input 1:
+Foundation length (m):4
+Foundation width (m):2
+Foundation height (m):0.6
+Wall height (m):2.5
+Cost of concrete ($/m^3):125
+Cost of bricks (s/m^2):94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+Input 2:
+Foundation length (m):4
+Foundation width (m):6
+Foundation height (m):4
+Wall height (m):10
+Cost of concrete ($/m^3):45
+Cost of bricks (s/m^2):10
+
+Concrete needed for foundation (m^3): 96.00
+Cost of concrete: $4,320.00
+Bricks needed for walls (m^2): 200.00
+Cost of bricks: $2,000.00
+Total cost: $6,320.00
+
+Input 3:
+Foundation length (m):58
+Foundation width (m):9
+Foundation height (m):10
+Wall height (m):45
+Cost of concrete ($/m^3):123
+Cost of bricks (s/m^2):25
+
+Concrete needed for foundation (m^3): 5220.00
+Cost of concrete: $642,060.00
+Bricks needed for walls (m^2): 6030.00
+Cost of bricks: $150,750.00
+Total cost: $792,810.00
