@@ -1,3 +1,3 @@
 # Course-Work
-An arsenal of course work throughout the school years.
-Such as Labs, Assignments, and Practice work. 
+An arsenal of coursework throughout the school years.
+Such as Projects, Labs, Assignments, and Practice work. 
